@@ -1,0 +1,32 @@
+commit ea28bd5350d83a7ccca9a8d020a93f787d85c71e
+Author: jsd79 <jsd79@njit.edu>
+Date:   Tue Feb 10 17:09:12 2026 -0500
+
+    Revert "Added notes.txt file"
+    
+    This reverts commit 1a74ea4a77f0b7236dab3f9ea2901ce35ea90b5b.
+
+commit 1a74ea4a77f0b7236dab3f9ea2901ce35ea90b5b
+Author: jsd79 <jsd79@njit.edu>
+Date:   Tue Feb 10 17:06:18 2026 -0500
+
+    Added notes.txt file
+
+commit fa2dba955407fcf6605049052bdb0269a5387e7e
+Author: jsd79 <jsd79@njit.edu>
+Date:   Tue Feb 10 17:03:46 2026 -0500
+
+    Updated hostname file
+
+commit 1ae9ae527943ef373bc00ba8e3a656348a7630ae
+Author: jsd79 <jsd79@njit.edu>
+Date:   Tue Feb 10 15:50:12 2026 -0500
+
+    Modified os-release
+    Added a test message to the os-release file in Lab_3 branch
+
+commit 3281f7f6ce2577281b9a9c6cf25ccc906fc2ece8
+Author: jsd79 <jsd79@njit.edu>
+Date:   Tue Feb 10 12:54:28 2026 -0500
+
+    Lab 3 File
